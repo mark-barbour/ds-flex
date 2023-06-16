@@ -1,2 +1,5 @@
 .DS_Store
 .ipynb_checkpoints
+
+# Gitignore Demo
+/Phase1/Tableau/data
